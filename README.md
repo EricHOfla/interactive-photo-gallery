@@ -14,7 +14,7 @@ The purpose of this project is to assess skills in HTML, CSS, and JavaScript, as
 5.	**Code Quality**: Write clean, readable, and well-structured code following best practices.
 ##Setup Instructions
 1.	**Clone the Repository: **
-           git clone https://github.com/EricHOfla/interactive-photo-gallery.git
+           #git clone https://github.com/EricHOfla/interactive-photo-gallery.git
 
 2.	**Navigate to the Project Directory: **
               cd interactive-photo-gallery 
