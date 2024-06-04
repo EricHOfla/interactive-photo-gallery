@@ -1,4 +1,4 @@
-Interactive Photo Gallery
+#Interactive Photo Gallery
 This project is part of a coding challenge to build an interactive photo gallery and solve two coding challenges using JavaScript. The interactive photo gallery is designed based on provided Figma designs and adheres to various requirements such as responsive design, Figma design accuracy, hover interaction, cross-browser compatibility, and code quality.
 
 Table of Contents
