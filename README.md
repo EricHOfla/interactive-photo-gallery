@@ -1,4 +1,4 @@
-                   # Interactive Photo Gallery
+ #                   Interactive Photo Gallery
 
 This project is part of a coding challenge to build an interactive photo 
 gallery and solve two coding challenges using JavaScript. The interactive photo
