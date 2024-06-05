@@ -15,7 +15,7 @@ such as responsive design, Figma design accuracy, hover interaction,
 2.	Solving two coding challenges.
 
 ## Requirements
-1.	** Responsive Design **: The photo gallery adapts seamlessly to 
+1.	**Responsive Design:** The photo gallery adapts seamlessly to 
        different screen sizes and devices.
 2.	** Figma Design Accuracy **: The implementation matches the provided
        Figma designs pixel-perfectly.
